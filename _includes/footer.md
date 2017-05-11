@@ -1,8 +1,1 @@
-
-
-Design by Tim O'Brien [t413.com](http://t413.com/)
-&mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
-
+License <a href="https://creativecommons.org/licenses/by-nc-sa/4.0" target="_blank">CC BY-NC-SA</a> ({{ site.time | date: '%Y' }})

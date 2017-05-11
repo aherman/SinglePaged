@@ -1,0 +1,14 @@
+<div class="container" id="contactform">
+      <br>
+        <h4>Send me a message!</h4>
+        <br>
+        <form method="POST" action="https://formspree.io/{{ site.email }}">
+                <input type="email"  name="email" placeholder="Your email">
+                <br>
+                <input type="text"  name="name" placeholder="Your name">
+                <br>
+                <textarea name="message" placeholder="Your message"></textarea>
+            <button type="submit" class="button">Send</button>
+        </form>
+        <br>
+</div>
