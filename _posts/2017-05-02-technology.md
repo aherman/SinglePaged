@@ -1,12 +1,12 @@
 ---
 title: "Technology"
-bg: LightSeaGreen     #defined in _config.yml, can use html color like '#010101'
-color: white  #text color
+bg: LightSeaGreen
+color: white
 style: justify
 fa-icon: gear
 ---
 
-## Technology Consulting
+## Computer Technology
 <br>
 
 <img class="feature-image" src="../img/times_table_animation.jpg"/>
@@ -14,14 +14,13 @@ I have a B.S. in Computer Science & Engineering and 5+ years professional experi
 
 Some of my specific technology interests include:
 
-* Computational Geometry
-* Data Structure Theory
-* Machine Learning Applications
-* Semantic Web
-* Internet of Things
-* Web Design
+* Application Design & Development
+* Web Design & Development
+* Information Systems & Data Structures
+* Data Visualization & Simulation
+* Algorithms & Automation
 
-View some of my open-source projects below. Ask me about contract work for your web design/development project.
+View some of my open-source projects below. Ask me about consulting/contract work for your web design/development project.
 
 [<span class="tooltip fa fa-github fa-2x"><span class="tooltiptext">Github</span></span>](https://github.com/aherman){:target="_blank"}
 [<span class="tooltip fa fa-codepen fa-2x"><span class="tooltiptext">Codepen</span></span>](http://codepen.io/hippiefuturist){:target="_blank"}

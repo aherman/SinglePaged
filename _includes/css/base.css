@@ -123,7 +123,6 @@
 ================================================== */
 
 	.button {
-
 	    display: inline-block;
 	    padding: 8px 12px;
 	    margin: 8px 0px;
@@ -132,23 +131,23 @@
 	    /*text-align: left;*/
 	    text-decoration: none;
 	    outline: none;
-	    /*color: #black;*/
+	    color: white;
 	    /*background-image: url("../images/textures/brushed-alum.png");*/
-	    background-color: Khaki;
+	    background-color: DarkOrchid;
 	    border: none;
 	    border-radius: 0px;
-	    box-shadow: 0 5px #555;
+	    box-shadow: 0 5px Indigo;
 	}
 
 	.button:hover {
-	    background-color: DarkKhaki;
+	    background-color: BlueViolet;
 	}
 
 	.button:active {
 	    /*background-color: chocolate;*/
-	    box-shadow: 0 3px #555;
+	    box-shadow: 0 3px Indigo;
 	    transform: translateY(2px);
-	    background-color: DarkKhaki;
+	    background-color: BlueViolet;
 	}
 
 	.button.full-width,
